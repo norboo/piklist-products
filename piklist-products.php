@@ -3,7 +3,7 @@
 Plugin Name: Piklist Products
 Plugin URI: http://eruisw.com
 Description: Create Products
-Version: 1.1
+Version: 1.2
 Author: Paul Istrate
 Author URI: http://eruisw.com
 Plugin Type: Piklist
