@@ -58,6 +58,17 @@ piklist('field', array(
 
 piklist('field', array(
     'type' => 'text'
+    ,'field' => 'clothes_width'
+    ,'label' => 'Width'
+    ,'value' => 'N/A'
+    ,'help' => 'This is help text.'
+    ,'attributes' => array(
+      'class' => 'text'
+    )
+));
+
+piklist('field', array(
+    'type' => 'text'
     ,'field' => 'clothes_sleeve_length'
     ,'label' => 'Sleeve Length'
     ,'value' => 'N/A'
