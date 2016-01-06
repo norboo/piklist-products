@@ -2,7 +2,7 @@
 /*
 Title: Clothes Extra Fields
 Description: Add extra fields for your tours
-Post Type: tour
+Post Type: product
 */
 
 piklist('field', array(
