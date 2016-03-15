@@ -10,7 +10,7 @@ piklist('field', array(
     ,'scope' => 'post_meta' // Not used for settings sections
     ,'field' => 'clothes_size'
     ,'value' => 'N/A' // Sets default to Option 2
-    ,'label' => 'Size'
+    ,'label' => __('Size')
     ,'attributes' => array(
       'class' => 'text'
     )
@@ -26,7 +26,7 @@ piklist('field', array(
 piklist('field', array(
     'type' => 'text'
     ,'field' => 'clothes_shoulder_breadth'
-    ,'label' => 'Shoulder Breadth'
+    ,'label' => __('Shoulder Breadth')
     ,'value' => 'N/A'
     ,'help' => 'This is help text.'
     ,'attributes' => array(
@@ -37,7 +37,7 @@ piklist('field', array(
 piklist('field', array(
     'type' => 'text'
     ,'field' => 'clothes_chest'
-    ,'label' => 'Chest'
+    ,'label' => __('Chest')
     ,'value' => 'N/A'
     ,'help' => 'This is help text.'
     ,'attributes' => array(
@@ -48,7 +48,7 @@ piklist('field', array(
 piklist('field', array(
     'type' => 'text'
     ,'field' => 'clothes_length'
-    ,'label' => 'Length'
+    ,'label' => __('Length')
     ,'value' => 'N/A'
     ,'help' => 'This is help text.'
     ,'attributes' => array(
@@ -59,7 +59,7 @@ piklist('field', array(
 piklist('field', array(
     'type' => 'text'
     ,'field' => 'clothes_width'
-    ,'label' => 'Width'
+    ,'label' => __('Width')
     ,'value' => 'N/A'
     ,'help' => 'This is help text.'
     ,'attributes' => array(
@@ -70,7 +70,7 @@ piklist('field', array(
 piklist('field', array(
     'type' => 'text'
     ,'field' => 'clothes_sleeve_length'
-    ,'label' => 'Sleeve Length'
+    ,'label' => __('Sleeve Length')
     ,'value' => 'N/A'
     ,'help' => 'This is help text.'
     ,'attributes' => array(
@@ -81,7 +81,7 @@ piklist('field', array(
 piklist('field', array(
     'type' => 'text'
     ,'field' => 'clothes_weigth'
-    ,'label' => 'Weigth'
+    ,'label' => __('Weigth')
     ,'value' => 'N/A'
     ,'help' => 'This is help text.'
     ,'attributes' => array(
